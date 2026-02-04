@@ -1,0 +1,61 @@
+Player_Name,Country,Role,Batting_Style,Bowling_Hand,Batting_Order,Bowling_Type,Matches_Played,Runs,Batting_Average,Batting_SR,Bowling_Average,Economy,Wickets
+Suryakumar Yadav,India,Batsman,Right-Handed,Right-Handed,Top,Spin,104,3030,36.95,165.48,2.5,5,2
+Axar Patel,India,All-Rounder,Left-Handed,Left-Handed,Lower-Middle,Spin,87,686,19.6,134.77,21.77,7.32,86
+Ishan Kishan,India,Wicket-Keeper,Left-Handed,Right-Handed,Top,None,36,1011,28.88,137.92,None,None,None
+Sanju Samson,India,Wicket-Keeper,Right-Handed,None,Opener,None,57,1078,23.95,147.46,None,None,None
+Abhishek Sharma,India,All-Rounder,Left-Handed,Left-Handed,Opener,Spin,38,1297,37.05,194.74,37.33,8.78,6
+Hardik Pandya,India,All-Rounder,Right-Handed,Right-Handed,Middle,Pace,129,2071,28.36,144.52,26.68,8.29,105
+Jasprit Bumrah,India,Bowler,Right-Handed,Right-Handed,Lower,Pace,87,12,2.4,70.58,18.82,6.54,107
+Arshdeep Singh,India,Bowler,Left-Handed,Left-Handed,Lower,Pace,76,82,6.83,107.89,19.05,8.53,118
+Varun Chakravarthy,India,Bowler,Right-Handed,Right-Handed,Lower,Spin,36,2,0.66,20,15.69,7.15,59
+Rinku Singh,India,Batsman,Left-Handed,Right-Handed,Middle,Spin,40,641,45.78,161.05,3.33,6,3
+Shivam Dube,India,All-Rounder,Left-Handed,Right-Handed,Middle,Pace,55,756,29.07,150,27.23,9.19,26
+Tilak Verma,India,Batsman,Left-Handed,Right-Handed,Top,Spin,40,1183,49.29,144.09,14.66,5.86,3
+Washington Sundar,India,All-Rounder,Left-Handed,Right-Handed,Lower-Middle,Spin,58,254,16.93,134.39,22.76,6.91,51
+Harshit Rana,India,Bowler,Right-Handed,Right-Handed,Lower-Middle,Pace,9,57,28.5,105.55,33,10.6,9
+Kuldeep Yadav,India,Bowler,Left-Handed,Left-Handed,Lower,Spin,53,48,8,67.6,13.74,6.99,94
+Tim David,Australia,Batsman,Right-Handed,Right-Handed,Middle,Spin,68,1596,36.27,168.88,51,9.32,5
+Travis Head,Australia,Batsman,Left-Handed,Right-Handed,Opener,Spin,49,1224,28.46,156.52,56,9.33,1
+Mitchell Marsh,Australia,All-Rounder,Right-Handed,Right-Handed,Opener,Pace,83,2102,32.33,139.48,22.76,7.74,17
+Glenn Maxwell,Australia,All-Rounder,Right-Handed,Right-Handed,Middle,Spin,126,2835,29.22,155.76,30.04,8.17,49
+Josh Inglis,Australia,Wicket-Keeper,Right-Handed,Right-Handed,Middle,None,42,916,27.75,158.47,None,None,None
+Matt Renshaw,Australia,Batsman,Left-Handed,Right-Handed,Top,None,3,18,6,81.81,None,None,None
+Cooper Connolly,Australia,All-Rounder,Left-Handed,Left-Handed,Middle,Spin,9,14,2.8,77.77,59.33,9.36,3
+Cameron Green,Australia,All-Rounder,Right-Handed,Right-Handed,Middle,Pace,24,614,32.31,153.5,25.61,9.42,13
+Marcus Stoinis,Australia,All-Rounder,Right-Handed,Right-Handed,Middle,Pace,83,1361,31.65,146.5,25.67,8.85,49
+Xavier Bartlett,Australia,Bowler,Right-Handed,Right-Handed,Lower,Pace,18,62,10.33,101.63,20.81,7.82,22
+Nathan Ellis,Australia,Bowler,Right-Handed,Right-Handed,Lower,Pace,32,32,6.4,58.18,17.72,7.86,50
+Ben Dwarshuis,Australia,Bowler,Left-Handed,Left-Handed,Lower-Middle,Pace,14,57,8.14,79.16,22.54,9.35,22
+Josh Hazlewood,Australia,Bowler,Left-Handed,Right-Handed,Lower,Pace,60,29,9.66,103.57,21.26,7.47,79
+Matthew Kuhnemann,Australia,Bowler,Left-Handed,Left-Handed,Lower,Spin,6,7,3.5,58.33,83.5,8.35,2
+Adam Zampa,Australia,Bowler,Right-Handed,Right-Handed,Lower,Spin,111,77,5.13,81.05,20.99,7.37,139
+Aiden Markram,South Africa,Batsman,Right-Handed,Right-Handed,Opener,Spin,69,1680,30,144.95,37.2,8.71,15
+Quinton de Kock,South Africa,Wicket-Keeper,Left-Handed,None,Opener,None,102,2914,31.67,142.7,None,None,None
+Ryan Rickelton,South Africa,Wicket-Keeper,Left-Handed,None,Opener,None,21,513,27,142.89,None,None,None
+David Miller,South Africa,Batsman,Left-Handed,None,Middle,None,133,2630,32.87,140.56,None,None,None
+Tristan Stubbs,South Africa,Batsman,Right-Handed,Right-Handed,Middle,Spin,44,832,27.73,132.69,0,20.5,0
+Dewald Brevis,South Africa,Batsman,Right-Handed,Right-Handed,Middle,Spin,22,490,25.78,171.32,None,None,None
+Jason Smith,South Africa,Batsman,Right-Handed,None,Middle,None,5,69,34.5,140.81,None,None,None
+Corbin Bosch,South Africa,All-Rounder,Right-Handed,Right-Handed,Lower-Middle,Pace,15,108,15.42,110.2,18.22,8.02,22
+George Linde,South Africa,All-Rounder,Left-Handed,Left-Handed,Lower-Middle,Spin,29,303,15.94,142.25,21.77,7.41,31
+Marco Jansen,South Africa,All-Rounder,Right-Handed,Left-Handed,Lower-Middle,Pace,24,195,15,140.28,33.86,8.54,22
+Kagiso Rabada,South Africa,Bowler,Left-Handed,Right-Handed,Lower,Pace,72,184,15.33,117.19,27.7,8.43,78
+Anrich Nortje,South Africa,Bowler,Right-Handed,Right-Handed,Lower,Pace,45,30,3.75,60,21.32,7.29,53
+Keshav Maharaj,South Africa,Bowler,Right-Handed,Left-Handed,Lower-Middle,Spin,43,103,10.3,88.03,25.83,7.61,43
+Lungi Ngidi,South Africa,Bowler,Right-Handed,Right-Handed,Lower,Pace,57,59,11.8,81.94,21.52,8.81,78
+Kwena Maphaka,South Africa,Bowler,Left-Handed,Left-Handed,Lower,Pace,16,19,9.5,79.16,30.93,9.76,16
+Jos Buttler,England,Wicket-Keeper,Right-Handed,None,Opener,None,147,3950,35.26,148.66,None,None,None
+Harry Brook,England,Batsman,Right-Handed,None,Middle,None,55,1068,30.51,152.57,None,None,None
+Ben Duckett,England,Wicket-Keeper,Left-Handed,None,Opener,None,21,527,27.73,153.19,None,None,None
+Sam Curran,England,All-Rounder,Left-Handed,Left-Handed,Lower-Middle,Pace,67,529,19.59,130.61,27.36,8.64,60
+Jacob Bethell,England,Batsman,Left-Handed,Left-Handed,Top,Spin,23,417,26.06,148.39,28.75,9.58,4
+Phil Salt,England,Wicket-Keeper,Right-Handed,None,Opener,None,52,1587,37.78,166.52,None,None,None
+Liam Dawson,England,All-Rounder,Right-Handed,Left-Handed,Lower-Middle,Spin,24,71,14.2,126.78,24.81,7.78,22
+Tom Banton,England,Batsman,Right-Handed,None,Middle,None,27,541,27.05,154.57,None,None,None
+Adil Rashid,England,Bowler,Right-Handed,Right-Handed,Lower,Spin,137,162,7.71,90,23.5,7.44,150
+Jofra Archer,England,Bowler,Right-Handed,Right-Handed,Lower,Pace,37,82,11.71,132.25,23.71,8.04,46
+Luke Wood,England,Bowler,Left-Handed,Left-Handed,Lower,Pace,15,4,4,80,22,8.8,18
+Jamie Overton,England,All-Rounder,Right-Handed,Right-Handed,Lower-Middle,Pace,18,56,8,105.66,19.23,8.64,17
+Will Jacks,England,All-Rounder,Right-Handed,Right-Handed,Middle,Spin,32,404,16.83,134.66,21.2,8.15,5
+Josh Tongue,England,Bowler,Right-Handed,Right-Handed,Lower,Pace,None,None,None,None,None,None,None
+Rehan Ahmed,England,All-Rounder,Right-Handed,Right-Handed,Middle,Spin,12,55,11,122.22,25.61,9.51,13
